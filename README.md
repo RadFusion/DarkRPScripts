@@ -1,12 +1,4 @@
 
-If you want to watch demo, Please turn on subtitles.
-
-
-
-
-
-
-
 Features
 * Interaction with VCmod (The server is not running VCmod ? No problem. you can disable this option at the config file. )
 * The neglected vehicles will remove by car theft for chop shop selling. then server will be lighter !
